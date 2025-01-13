@@ -1,14 +1,14 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Rafael! A passionate Data Science student from Brazil.
+  Hi 👋, I'm Rafael! A passionate Web Programming student from Brazil.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at <img align="center" alt="Unifacvest" src="https://img.shields.io/badge/Unifacvest-Lages%20SC-004B87?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  - 🌱 I’m currently studying Computer Science at <img align="center" alt="Unifacvest" src="https://img.shields.io/badge/Unifacvest-Lages%20SC-004B87?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with DevOps.
 </p>
