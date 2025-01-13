@@ -32,8 +32,11 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://media.giphy.com/media/sOzHwf1DF8h96A5tXU/giphy.gif" width="800" height="450" alt="Loop Terminal GIF">
 </p>
+
+
+
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
