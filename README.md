@@ -25,7 +25,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-muniz-3a7285323/)
 
 <!-- GithubStats -->
-![TioRaffa GitHub stats](https://github-readme-stats.vercel.app/api?username=tioRaffa&show_icons=true&theme=gotham)
+![Rafael Muniz GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmunizdev&show_icons=true&theme=gotham&cache_seconds=1800)
+
 
 
 
