@@ -20,12 +20,7 @@
   - 💬 I am 22 years old and currently live in Brazil. I am starting to learn English to expand my knowledge and professional opportunities. I am passionate about technology and always looking for new challenges in the world of programming, with a focus on continuous learning. I enjoy exploring new tools and technologies, with an emphasis on back-end development. I believe that learning languages and expanding cultural horizons is a way to enrich my professional and personal experience.
 </details>
 
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r4fa_mnzzzz/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-muniz-3a7285323/)
 
-<!-- GithubStats -->
-![TioRaffa GitHub stats](https://github-readme-stats.vercel.app/api?username=tioRaffa&show_icons=true&theme=gotham&cache_seconds=1800)
 
 
 
