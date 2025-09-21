@@ -8,8 +8,7 @@
 <p>
   Hi 👋, I'm Rafael! A passionate Web Programming student from Brazil.
 
-  - 🌱 I’m currently studying Computer Science at <img align="center" alt="Unifacvest" src="https://img.shields.io/badge/Unifacvest-Santa Catarina%20BR-004B87?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-
+  - 🌱 I’m currently studying Computer Science
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with DevOps.
 </p>
 
