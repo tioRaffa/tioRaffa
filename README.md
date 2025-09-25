@@ -20,10 +20,7 @@
 </details>
 
 
-
-
-
-
+![tioRaffa GitHub stats](https://github-readme-stats.vercel.app/api?username=tioRaffa&show_icons=true&theme=dark&include_all_commits=true)
 
 
 <!-- Portfolio -->
