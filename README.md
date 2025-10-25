@@ -44,6 +44,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
 </p>
 
@@ -51,7 +52,9 @@
 ## 🛠️ Frameworks and Tools
 <p>
   <img align="center" alt="Django" height="20" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg">
+  &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Django REST Framework" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png">
+  &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Insomnia" height="30" width="30" src="https://logo.svgcdn.com/l/insomnia.png">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -60,11 +63,14 @@
 ## 🧰 IDEs and Editors
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" />
 </p>
 
 ## 🖥️ Operating Systems
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
 </p>
