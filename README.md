@@ -1,7 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9900CC&fontAlign=50&section=header">
-
 <div align="center">
-  <img align="center" height="400" src="https://i.imgur.com/UQxkqjC.png" />
+  <img align="center" height="400" src="https://i.imgur.com/m2Tbs4B.png" />
 </div>
 
 <div align="center">
