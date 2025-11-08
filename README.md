@@ -15,13 +15,7 @@
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9619ABFF&width=900&size=22&center=true&lines=I'm+a+student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/tioRaffa-black" />
-</div>
-      
+    
 <br></details>
 
 <div align="center">
