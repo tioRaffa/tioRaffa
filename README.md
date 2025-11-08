@@ -27,24 +27,13 @@
       
 <br></details>
 
-<div>
+<div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=tioRaffa&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tioRaffa&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
   <br>
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tioRaffa&theme=tokyonight"/>
 </div>
-
-
-<!-- Portfolio -->
-
-
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://media.giphy.com/media/sOzHwf1DF8h96A5tXU/giphy.gif" width="800" height="450" alt="Loop Terminal GIF">
-</p>
-
-
 
 
 ## 🧠 Programming Languages
