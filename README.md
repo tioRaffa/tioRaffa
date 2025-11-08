@@ -1,9 +1,6 @@
-<br>
-<br>
-<br>
 
 <div align="center">
-  <img align="center" height="350" src="https://i.imgur.com/UQxkqjC.png" />
+  <img align="center" height="400" src="https://i.imgur.com/UQxkqjC.png" />
 </div>
 
 <div align="center">
