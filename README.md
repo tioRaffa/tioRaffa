@@ -59,6 +59,7 @@
   <img align="center" alt="Django REST Framework" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png">
   &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Insomnia" height="30" width="30" src="https://logo.svgcdn.com/l/insomnia.png">
+    &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Docker" height="30" width="40" src="https://www.svgrepo.com/show/452192/docker.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Automation" height="30" src="https://www.svgrepo.com/show/331794/automation.svg">
