@@ -1,26 +1,39 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
+<br>
+<br>
+<br>
+
+<div align="center">
+  <img align="center" height="350" src="https://i.imgur.com/UQxkqjC.png" />
 </div>
 
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Rafael! A passionate Web Programming student from Brazil.
+<div align="center">
 
-  - 🌱 I’m currently studying Computer Science
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with DevOps.
-</p>
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Rafael Muniz</b>
+  </samp>
+</div>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9619ABFF&width=900&size=22&center=true&lines=I'm+a+student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
+</div>
 
-  - 💬 I am 22 years old and currently live in Brazil. I am starting to learn English to expand my knowledge and professional opportunities. I am passionate about technology and always looking for new challenges in the world of programming, with a focus on continuous learning. I enjoy exploring new tools and technologies, with an emphasis on back-end development. I believe that learning languages and expanding cultural horizons is a way to enrich my professional and personal experience.
-</details>
+<br>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/tioRaffa-black" />
+</div>
+      
+<br></details>
 
-![tioRaffa GitHub stats](https://github-readme-stats.vercel.app/api?username=tioRaffa&show_icons=true&theme=dark&include_all_commits=true)
+<div>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=tioRaffa&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tioRaffa&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tioRaffa&theme=tokyonight"/>
+</div>
 
 
 <!-- Portfolio -->
