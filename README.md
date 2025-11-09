@@ -13,7 +13,7 @@
 </div>
 
 ---
-<img align="right" height="335" src="https://i.imgur.com/m2Tbs4B.png" />
+<img align="right" height="385" src="https://i.imgur.com/m2Tbs4B.png" />
 
 
 ### 👨‍💻 About Me
@@ -21,12 +21,7 @@
 - 📚 I’m currently studying Computer Science
 - 🎯 Passionate about technology, logic and learning new things
 - 🎓 Backend Developer
-<!-- Dropdown -->
-<details>
-  <summary> More about me</summary>
-
-  - 💬 I am 22 years old and currently live in Brazil. I am starting to learn English to expand my knowledge and professional opportunities. I am passionate about technology and always looking for new challenges in the world of programming, with a focus on continuous learning. I enjoy exploring new tools and technologies, with an emphasis on back-end development. I believe that learning languages and expanding cultural horizons is a way to enrich my professional and personal experience.
-</details>
+- 💬 I am 22 years old and currently live in Brazil. I am starting to learn English to expand my knowledge and professional opportunities. I am passionate about technology and always looking for new challenges in the world of programming, with a focus on continuous learning. I enjoy exploring new tools and technologies, with an emphasis on back-end development. I believe that learning languages and expanding cultural horizons is a way to enrich my professional and personal experience.
 
 ---
     
