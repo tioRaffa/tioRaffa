@@ -13,7 +13,7 @@
 </div>
 
 ---
-<img align="right" height="385" src="https://i.imgur.com/m2Tbs4B.png" />
+<img align="right" height="335" src="https://i.imgur.com/m2Tbs4B.png" />
 
 
 ### 👨‍💻 About Me
